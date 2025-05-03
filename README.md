@@ -4,3 +4,4 @@
 程式使用Azure SPEECH SDK 及 Google翻譯API
 Azure SPEECH SDK 需要在 .env 檔內 設定 api key
 字典檔為dictionary.json
+Multi-language simultaneous subtitles This is a python-based simultaneous subtitles application, suitable for teaching. It allows you to adjust the subtitle position and set the proper noun dictionary. The application uses Azure SPEECH SDK and Google Translate API. Azure SPEECH SDK requires you to set the api key in the .env file. The dictionary file is dictionary.json.
